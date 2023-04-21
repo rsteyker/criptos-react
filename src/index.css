@@ -1,0 +1,14 @@
+:root{
+  --fondo: #0D2235;
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: var(--fondo);
+}
